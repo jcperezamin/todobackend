@@ -1,5 +1,5 @@
 FROM jmenga/todobackend-base:latest
-MAINTAINER Justin Menga <justin.menga@gmail.com>
+MAINTAINER Juan Perez jcperez@easynube.co.uk
 
 # Copy application artifacts
 COPY target /wheelhouse
