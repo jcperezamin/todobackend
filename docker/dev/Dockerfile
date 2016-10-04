@@ -1,5 +1,5 @@
-FROM jmenga/todobackend-base:latest
-MAINTAINER Justin Menga <justin.menga@gmail.com>
+FROM jcperez/todobackend-base:latest
+MAINTAINER Juan Perez jcperez@easynube.co.uk
 
 # Install dev/build dependencies
 RUN apt-get update && \
