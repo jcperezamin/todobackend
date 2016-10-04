@@ -1,4 +1,4 @@
-FROM jmenga/todobackend-base:latest
+FROM jcperez/todobackend-base:latest
 MAINTAINER Juan Perez jcperez@easynube.co.uk
 
 # Copy application artifacts
